@@ -94,7 +94,7 @@ GitHub, Render, Power BI, Excel avanzado
 ## 📫 Contacto
 
 📧 [luis_saenz@hotmail.fr](mailto:luis_saenz@hotmail.fr)  
-🔗 [LinkedIn](www.linkedin.com/in/lsaenz)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lsaenz/)  
 🐙 [GitHub](https://github.com/emeoke)
 
 ---
