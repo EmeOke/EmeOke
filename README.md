@@ -1,97 +1,122 @@
-# 💻 Luis Sáenz — IT Professional | Cloud & Data Analyst
+<!-- Banner -->
+<h1 align="center">💻 Luis Sáenz</h1>
+<h3 align="center">IT Professional | Cloud & Data Analyst</h3>
 
-👋 Hola, soy **Luis Sáenz (@emeoke)**, profesional de TI con más de **7 años de experiencia** en **soporte técnico, ITSM, soluciones en la nube y análisis de datos**.  
-Me especializo en **Azure, Python y gestión del cambio**, ayudando a empresas globales a optimizar procesos, mejorar su infraestructura y facilitar su transformación digital.
-
----
-
-## 🧩 Perfil profesional
-
-- +7 años en entornos **multinacionales** (Microsoft, Walmart, Walgreens, Petco).  
-- Experiencia integral en **soporte técnico (L1–L3)**, **gestión de cambios**, **conocimiento** e **incidentes**.  
-- Capacidad para unir el mundo operativo con el analítico: **datos, procesos y tecnología**.  
-- Fuerte enfoque en **documentación técnica**, **colaboración transversal** y **mejora continua**.  
-- Comunicación fluida en **inglés (C2)** y **español nativo**.
+<p align="center">
+  <em>+7 years of experience in Technical Support, ITSM, Cloud Solutions & Data Analysis</em><br>
+  <em>Helping global organizations optimize processes, strengthen infrastructure & drive digital transformation</em>
+</p>
 
 ---
 
-## ⚙️ Tecnologías y herramientas
+<h3 align="center">⚡ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-013243?logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITIL-6C3483?logo=processwire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-FF6F00?logo=scrumalliance&logoColor=white" />
+</p>
 
-💾 **Lenguajes y análisis**  
+---
+
+## 🧩 About Me
+
+- 🌍 7+ years in **multinational environments** (*Microsoft, Walmart, Walgreens, Petco*)  
+- 💼 Expertise in **Technical Support (L1–L3)**, **Change & Knowledge Management**, **Incident Response**  
+- 🧠 Bridging operations, analytics & cloud transformation  
+- 📝 Strong focus on **technical documentation**, **collaboration**, and **continuous improvement**  
+- 🌐 Fluent in **English (C2)** & native **Spanish**
+
+---
+
+## ⚙️ Tools & Skills
+
+💾 **Languages & Data Analysis**  
 Python (Pandas, NumPy, Plotly), SQL, Web Scraping  
 
-☁️ **Cloud y migraciones**  
-Azure, Dr. Migrate, Data Center → Cloud assessment  
+☁️ **Cloud & Migration**  
+Azure, Dr. Migrate, Data Center → Cloud Assessments  
 
-🧭 **ITSM & Operaciones**  
+🧭 **ITSM & Operations**  
 ServiceNow, Jira, Confluence, SolarWinds, AirWatch, M365  
 
-🚀 **Metodologías**  
-ITIL 4, Agile, Scrum, KCS (Knowledge-Centered Service)  
+🚀 **Methodologies**  
+ITIL 4, Agile, Scrum, KCS  
 
-🧰 **Otros**  
-GitHub, Render, Power BI, Excel avanzado  
-
----
-
-## 🚀 Experiencia destacada
-
-### 🔹 Inviso (Microsoft Partner) — *Technical Consultant*  
-**Oct 2023 – Presente | CDMX**  
-- Lidero **migraciones a Azure** y optimización de infraestructura cloud.  
-- Implementé **Dr. Migrate** para evaluación y costos de migración.  
-- Elaboro reportes técnicos de resultados, recomendaciones y mejoras.  
-
-### 🔹 Tata Consultancy Services (Walmart) — *Change Manager (WoW)*  
-**Abr 2022 – Abr 2023 | CDMX**  
-- Dirigí el proceso de **gestión de cambios ITSM** en la transformación digital de Walmart.  
-- Coordiné documentación, pruebas y riesgo con equipos multifuncionales.  
-- Apliqué **ITIL y Agile** para optimizar el flujo de cambios críticos.  
-
-### 🔹 Tata Consultancy Services (Walgreens) — *Incident Manager*  
-**Ene 2022 – Abr 2022 | Querétaro**  
-- Gestioné incidentes críticos en infraestructura y sistemas de punto de venta (POS).  
-- Reduje tiempos de resolución mediante **gestión proactiva de stakeholders**.  
-
-### 🔹 Tata Consultancy Services (Petco) — *Knowledge Manager / Trainer*  
-**Ene 2019 – Ene 2022 | Querétaro**  
-- Migré y estructuré la **base de conocimiento en ServiceNow** (300+ artículos).  
-- Mejoré la **resolución en primer contacto** mediante documentación optimizada.  
-- Diseñé programas de capacitación técnica para agentes L1/L2.  
-
-> *También desempeñé funciones como Quality Analyst, Shift Lead y SME en Petco Service Desk (2018–2019).*
+🧰 **Other Tools**  
+GitHub, Render, Power BI, Advanced Excel  
 
 ---
 
-## 🎓 Formación académica
+## 🚀 Experience
 
-🎓 **MSc en Gestión de Recursos Naturales** — Universidad Autónoma de Querétaro (2013–2015)  
-📚 **Licenciatura en Filosofía** — Universidad Autónoma de Querétaro (2008–2012)
-
----
-
-## 🏅 Certificaciones
-
-- 🎯 Data Analyst — *TripleTen (2025)*  
-- ☁️ Microsoft Azure Fundamentals — *2023*  
-- 🔄 Change Management Practitioner — *AgileHub (2023)*  
-- 🧠 Scrum Master — *TCS (2022)*  
-- ⚙️ ITIL 4 Foundation — *TCS (2019)*  
-- 💡 CompTIA A+ — *LinkedIn Learning (2017)*  
+### 🟢 **Inviso (Microsoft Partner)** — *Technical Consultant*  
+📅 Oct 2023 – Present | 📍 CDMX  
+- Lead **Azure migrations** & cloud infrastructure optimization  
+- Implemented **Dr. Migrate** for cost and migration assessment  
+- Developed **technical reports** and improvement recommendations  
 
 ---
 
-## 🌍 Idiomas
-
-| Idioma | Nivel |
-|--------|--------|
-| 🇪🇸 Español | Nativo |
-| 🇬🇧 Inglés | Fluido (C2) |
-| 🇫🇷 Francés | Básico (A2) |
+### 🔵 **Tata Consultancy Services (Walmart)** — *Change Manager (WoW)*  
+📅 Apr 2022 – Apr 2023 | 📍 CDMX  
+- Directed **ITSM change management** during Walmart’s digital transformation  
+- Coordinated documentation, testing & risk evaluation  
+- Applied **ITIL + Agile** to streamline critical change processes  
 
 ---
 
-## 📫 Contacto
+### 🟣 **Tata Consultancy Services (Walgreens)** — *Incident Manager*  
+📅 Jan 2022 – Apr 2022 | 📍 Querétaro  
+- Managed **critical infrastructure incidents** across retail POS systems  
+- Reduced resolution time through **stakeholder engagement**  
+
+---
+
+### 🟠 **Tata Consultancy Services (Petco)** — *Knowledge Manager / Trainer*  
+📅 Jan 2019 – Jan 2022 | 📍 Querétaro  
+- Migrated & structured **ServiceNow knowledge base** (300+ articles)  
+- Improved **first-contact resolution** via optimized documentation  
+- Designed **training programs** for L1/L2 support teams  
+
+> 🧩 *Also served as Quality Analyst, Shift Lead & SME (2018–2019)*  
+
+---
+
+## 🎓 Education
+
+🎓 **MSc in Natural Resources Management** — Universidad Autónoma de Querétaro (2013–2015)  
+📚 **BA in Philosophy** — Universidad Autónoma de Querétaro (2008–2012)
+
+---
+
+## 🏅 Certifications
+
+| Certificación | Año | Entidad |
+|----------------|------|-----------|
+| 🎯 Data Analyst | 2025 | TripleTen |
+| ☁️ Microsoft Azure Fundamentals | 2023 | Microsoft |
+| 🔄 Change Management Practitioner | 2023 | AgileHub |
+| 🧠 Scrum Master | 2022 | TCS |
+| ⚙️ ITIL 4 Foundation | 2019 | TCS |
+| 💡 CompTIA A+ | 2017 | LinkedIn Learning |
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|-----------|--------|
+| 🇪🇸 Spanish | Native |
+| 🇬🇧 English | Fluent (C2) |
+| 🇫🇷 French | Basic (A2) |
+
+---
+
+## 📫 Contact
 
 📧 [luis_saenz@hotmail.fr](mailto:luis_saenz@hotmail.fr)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lsaenz/)  
@@ -99,14 +124,19 @@ GitHub, Render, Power BI, Excel avanzado
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-| Proyecto | Descripción | Stack | Resultado |
-|-----------|--------------|--------|------------|
-| **CV_Web** | Portafolio interactivo con visualizaciones y navegación por secciones. | Python, Streamlit, Render | Presentación visual e interactiva de CV profesional. |
-| **Sprint7 - Data Cleaning & Visualization** | Limpieza y análisis exploratorio de datasets complejos. | Python, Pandas, Plotly | Informe visual de patrones y correlaciones clave. |
+| Project | Description | Stack | Outcome |
+|----------|--------------|--------|----------|
+| **CV_Web** | Interactive portfolio with multi-section visual navigation | Python, Streamlit, Render | Dynamic professional CV presentation |
+| **Sprint7 - Data Cleaning & Visualization** | Data cleaning & EDA on complex datasets | Python, Pandas, Plotly | Visual insights & correlation analysis |
 
 ---
 
-⭐ *“La tecnología es un medio para comprender mejor los sistemas humanos.”*  
-— Luis Sáenz
+<h4 align="center">⭐ “Technology is a tool to better understand human systems.” — Luis Sáenz ⭐</h4>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emeoke&label=Profile%20Views&color=0e75b6&style=flat" alt="emeoke" />
+</p>
