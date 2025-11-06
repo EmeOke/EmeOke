@@ -1,7 +1,7 @@
 # 💻 Luis Sáenz — IT Professional | Cloud & Data Analyst
 
 👋 Hola, soy **Luis Sáenz (@emeoke)**, profesional de TI con más de **7 años de experiencia** en **soporte técnico, ITSM, soluciones en la nube y análisis de datos**.  
-Me especializo en **Azure, AWS, Python y gestión del cambio**, ayudando a empresas globales a optimizar procesos, mejorar su infraestructura y facilitar su transformación digital.
+Me especializo en **Azure, Python y gestión del cambio**, ayudando a empresas globales a optimizar procesos, mejorar su infraestructura y facilitar su transformación digital.
 
 ---
 
@@ -21,7 +21,7 @@ Me especializo en **Azure, AWS, Python y gestión del cambio**, ayudando a empre
 Python (Pandas, NumPy, Plotly), SQL, Web Scraping  
 
 ☁️ **Cloud y migraciones**  
-Azure, AWS, Dr. Migrate, Data Center → Cloud assessment  
+Azure, Dr. Migrate, Data Center → Cloud assessment  
 
 🧭 **ITSM & Operaciones**  
 ServiceNow, Jira, Confluence, SolarWinds, AirWatch, M365  
