@@ -155,6 +155,8 @@ GitHub, Render, Power BI, Advanced Excel
 |----------|--------------|--------|----------|
 | **CV_Web** | Interactive portfolio with multi-section visual navigation | Python, Streamlit, Render | Dynamic professional CV presentation |
 | **Sprint7 - Data Cleaning & Visualization** | Data cleaning & EDA on complex datasets | Python, Pandas, Plotly | Visual insights & correlation analysis |
+| **LinkedIn-Profile-Guide** | Structured guide to build an optimized, keyword-rich LinkedIn profile | Markdown, SEO, Personal Branding | Improved professional visibility and recruiter engagement |
+| **GitHub-Profile-Guide** | Step-by-step GitHub profile enhancement with visuals, pinned projects, and widgets | Markdown, Badges, GitHub Widgets | Enhanced portfolio presentation and personal branding |
 
 ---
 
