@@ -78,11 +78,36 @@ GitHub, Render, Power BI, Advanced Excel
 
 ### 🟠 **Tata Consultancy Services (Petco)** — *Knowledge Manager / Trainer*  
 📅 Jan 2019 – Jan 2022 | 📍 Querétaro  
-- Migrated & structured **ServiceNow knowledge base** (300+ articles)  
-- Improved **first-contact resolution** via optimized documentation  
-- Designed **training programs** for L1/L2 support teams  
+- Led the **migration and structuring of the knowledge base** within ServiceNow, aligning with ITSM and ITIL practices  
+- Authored and maintained **300+ technical documents** (user guides, API docs, troubleshooting articles)  
+- Delivered **onboarding and upskilling training** for L1/L2 agents (hardware, software, ITSM, ServiceNow)  
+- Enhanced **incident resolution** through improved documentation workflows  
+- Acted as **ServiceNow champion**, promoting best documentation practices across shifts  
 
-> 🧩 *Also served as Quality Analyst, Shift Lead & SME (2018–2019)*  
+---
+
+### 🟡 **Tata Consultancy Services (Petco)** — *Quality Analyst / Lead*  
+📅 Oct 2018 – Jan 2019 | 📍 Querétaro  
+- Audited **agent performance** across multiple channels, improving service delivery quality  
+- Designed a **performance scorecard** to monitor key metrics and boost efficiency  
+- Supported alignment of **service desk operations** with ITSM policies and KPIs  
+
+---
+
+### 🟤 **Tata Consultancy Services (Petco)** — *Shift Lead / SME*  
+📅 Jan 2018 – Oct 2018 | 📍 Querétaro  
+- Supervised and coached **30+ service desk agents** ensuring SLA compliance  
+- Managed **scheduling, coverage, and workforce optimization** using data-driven tools  
+- Served as **escalation point** for complex incidents and requests  
+
+---
+
+### ⚪ **Tata Consultancy Services (Petco)** — *Call Taker / L1 Support*  
+📅 Aug 2017 – Jan 2018 | 📍 Querétaro  
+- Acted as **first point of contact** for store and corporate users via ServiceNow  
+- Provided **remote troubleshooting** for AD, Outlook, network, and POS systems  
+- Guided **hardware installation and replacement** (servers, printers, registers, scanners)  
+- Coordinated **vendor support and facility-related incidents** ensuring operational continuity  
 
 ---
 
